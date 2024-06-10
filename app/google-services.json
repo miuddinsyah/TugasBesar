@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927963197367",
+    "project_id": "databasepesawat",
+    "storage_bucket": "databasepesawat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927963197367:android:e032e1af27989171484232",
+        "android_client_info": {
+          "package_name": "com.example.tugasbesar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarhIdzmX3Mg7lT88J5Xa2JuTcMLmGZRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

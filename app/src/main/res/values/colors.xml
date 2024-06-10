@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 colors -->
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="font_Ketuk">#3C3636</color>
+	<color name="Gray_Font">#403E3E</color>
+	<color name="_bg__android_large___1_ek2_color">#FFFFFF</color>
+	<color name="rectangle_5_color">#D9D9D9</color>
+	<color name="mulai_perjalanan_anda__color">#3F3D3D</color>
+	<color name="ellipse_9_color">#E53A3A</color>
+	<color name="ketuk_untuk_melanjutkan_color">#3C3636</color>
+	<color name="_bg__android_large___24_ek2_color">#CC3333</color>
+	<color name="rectangle_77_color">#F7F2F2</color>
+	<color name="garuda_indonesia_color">#FFFFFF</color>
+	<color name="idr_1_233_061_color">#DD8535</color>
+	<color name="rectangle_82_color">#FDF4F4</color>
+	<color name="transfer_mandiri_color">#000000</color>
+	<color name="rectangle_76_color">#DCD4D4</color>
+	<color name="recommended_color">#248F28</color>
+	<color name="rectangle_82_ek1_color">#FFFCFC</color>
+	<color name="rectangle_75_color">#DBD3D3</color>
+	<color name="rectangle_79_color">#FDF9F9</color>
+	<color name="rectangle_83_color">#E24444</color>
+	<color name="rectangle_85_color">#BB2828</color>
+	<color name="rectangle_87_ek1_color">#D87E8D</color>
+</resources>

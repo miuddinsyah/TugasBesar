@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeleksiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/image_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/_bg__android_large___24_ek2_shape" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/jakarta_jkta_string"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/arrow_2"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/textView3"
+                android:rotation="180"
+                app:srcCompat="@drawable/arrow_2" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="35dp"
+                android:text="@string/_25_mei_1_pax_ekonomi_string"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="200dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/bali_dps_string"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="531dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="200dp"
+                android:background="@drawable/rectangle_5_shape">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="50dp">
+
+                            <ImageView
+                                android:id="@+id/imageView4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/discount"
+                                tools:layout_editor_absoluteY="30dp" />
+
+                            <TextView
+                                android:id="@+id/textView6"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:textStyle="bold"
+                                android:text="@string/garuda_indonesia_string"
+                                android:textColor="@color/white"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="42dp" />
+
+                            <ImageView
+                                android:id="@+id/imageView3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/line_5"
+                                android:layout_marginStart="20dp"
+                                tools:layout_editor_absoluteX="65dp"
+                                tools:layout_editor_absoluteY="65dp"/>
+
+                            <TextView
+                                android:id="@+id/jam"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="15:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/asal"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="JKT"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/jam1"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="16:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/keberangkatan"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="DPS"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/harga"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="150dp"
+                                android:layout_height="match_parent"
+                                android:text="IDR 500000"
+                                android:textSize="30dp"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="150dp" />
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp">
+                            <!-- Placeholder for spacing -->
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="50dp">
+
+                            <ImageView
+                                android:id="@+id/imageView5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/discount_ek1"
+                                tools:layout_editor_absoluteY="31dp" />
+
+                            <TextView
+                                android:id="@+id/textView7"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:text="@string/batik_air_string"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:layout_marginStart="30dp"
+                                tools:layout_editor_absoluteY="44dp" />
+                            <ImageView
+                                android:id="@+id/imageView31"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/line_5"
+                                android:layout_marginStart="20dp"
+                                tools:layout_editor_absoluteX="65dp"
+                                tools:layout_editor_absoluteY="65dp"/>
+
+                            <TextView
+                                android:id="@+id/jam2"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="15:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/asal3"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="JKT"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/jam14"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="16:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/keberangkatan1"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="DPS"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/harga1"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="150dp"
+                                android:layout_height="match_parent"
+                                android:text="IDR 500000"
+                                android:textSize="30dp"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="150dp" />
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp">
+                            <!-- Placeholder for spacing -->
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="50dp">
+
+                            <ImageView
+                                android:id="@+id/imageView6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/discount_ek2"
+                                tools:layout_editor_absoluteY="31dp" />
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:text="Air Asia"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:layout_marginStart="30dp"
+                                tools:layout_editor_absoluteY="44dp" />
+                            <ImageView
+                                android:id="@+id/imageView32"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:srcCompat="@drawable/line_5"
+                                android:layout_marginStart="20dp"
+                                tools:layout_editor_absoluteX="65dp"
+                                tools:layout_editor_absoluteY="65dp"/>
+
+                            <TextView
+                                android:id="@+id/jam3"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="15:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/asal4"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="20dp"
+                                android:layout_height="match_parent"
+                                android:text="JKT"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/jam15"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="16:10"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="60dp" />
+                            <TextView
+                                android:id="@+id/keberangkatan2"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="110dp"
+                                android:layout_height="match_parent"
+                                android:text="DPS"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="80dp" />
+                            <TextView
+                                android:id="@+id/harga2"
+                                android:layout_width="match_parent"
+                                android:layout_marginStart="150dp"
+                                android:layout_height="match_parent"
+                                android:text="IDR 500000"
+                                android:textSize="30dp"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                tools:layout_editor_absoluteX="50dp"
+                                tools:layout_editor_absoluteY="150dp" />
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+                    </LinearLayout>
+                </ScrollView>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

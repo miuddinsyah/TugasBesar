@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tugasbesar.app-mergeDebugResources-41:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ccoos\\.gradle\\caches\\transforms-4\\be412a8c4d515f347e03e596afa1a718\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

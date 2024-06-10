@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">YourAppName</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="terbang_nyaman_bebas_cemas__string">Terbang Nyaman Bebas Cemas.</string>
+	<string name="mulai_perjalanan_anda__string">Mulai Perjalanan Anda.</string>
+	<string name="ketuk_untuk_melanjutkan_string">Ketuk Untuk Melanjutkan</string>
+	<string name="masukan_akun">Masukan Akun</string>
+	<string name="masukan">Masukan</string>
+	<string name="anda">Anda</string>
+	<string name="username">Username</string>
+	<string name="email">Email</string>
+	<string name="lupakatasandi">Lupa Kata Sandi</string>
+	<string name="Tanggal_Lahir">DD/MM/YYYY</string>
+	<string name="username_email">Username/Email</string>
+	<string name="otp">OTP</string>
+	<string name="kirimotp">Kirim OTP</string>
+	<string name="resetpass">Reset Password</string>
+	<string name="masukan_password">Masukan password</string>
+	<string name="masukan_email">Masukan email</string>
+	<string name="mulai_perjalanan">Mulai Perjalanan.</string>
+	<string name="ketuk_untuk_melanjutkan">Ketuk Untuk Melanjutkan</string>
+	<string name="image_1_description">Description of image 1</string>
+	<string name="Lupa_Kata_Sandi">Lupa Kata Sandi?</string>
+	<string name="buatakun">Sign Up</string>
+	<string name="login">Login</string>
+	<string name="DaftarAkun">Daftar Akun</string>
+	<string name="mau_kemana_">Mau Kemana</string>
+	<string name="Kita">Kita?</string>
+	<string name="mm_dd_yy_string">MM/DD/YY</string>
+	<string name="cari_string">Cari</string>
+	<string name="jakarta_jkta_string">Jakarta (JKTA)</string>
+	<string name="pulang_pergi_string">Pulang Pergi</string>
+	<string name="bali_denpasar_dps_string">Bali / Denpasar (DPS)</string>
+	<string name="Terbangnyaman">Terbang Nyaman</string>
+	<string name="bcemas">Bebas Cemas</string>
+	<string name="garuda_indonesia_string">GARUDA INDONESIA</string>
+	<string name="_15_10_string">15:10</string>
+	<string name="_18_00_string">18:00</string>
+	<string name="jkta_string">JKTA</string>
+	<string name="dps_string">DPS</string>
+	<string name="idr_1_233_061_string">IDR 1.233.061</string>
+	<string name="transfer_mandiri_string">Transfer mandiri</string>
+	<string name="recommended_string">Recommended</string>
+	<string name="idr_837_200_string">IDR 837.200</string>
+	<string name="batik_air_string">BATIK AIR</string>
+	<string name="bagasi_5kg_string">Bagasi +5kg</string>
+	<string name="semua_penerbangan_string">Semua penerbangan</string>
+	<string name="penerbangan_terbaik_dalam_pencarian_anda_string">Penerbangan terbaik dalam pencarian Anda!</string>
+	<string name="kupon_string">Kupon</string>
+	<string name="sabtu_25_mei_rp_939_510_string">Sabtu, 25 Mei Rp 939.510</string>
+	<string name="minggu_26_mei_rp_1_051_300_string">Minggu, 26 Mei Rp 1.051.300</string>
+	<string name="senin_27_mei_rp_959_000_string">Senin, 27 Mei Rp 959.000</string>
+	<string name="jakarta_jkta_2_string">Jakarta (JKTA)</string>
+	<string name="bali_dps_string">Bali (DPS)</string>
+	<string name="_25_mei_1_pax_ekonomi_string">25 Mei - 1 Pax - Ekonomi</string>
+	<string name="termurah_string">Termurah</string>
+	<string name="pemberhentian_string">Pemberhentian</string>
+</resources>

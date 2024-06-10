@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Gray_Font">#403E3E</color>
+    <color name="_bg__android_large___1_ek2_color">#FFFFFF</color>
+    <color name="_bg__android_large___24_ek2_color">#CC3333</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="ellipse_9_color">#E53A3A</color>
+    <color name="font_Ketuk">#3C3636</color>
+    <color name="garuda_indonesia_color">#FFFFFF</color>
+    <color name="idr_1_233_061_color">#DD8535</color>
+    <color name="ketuk_untuk_melanjutkan_color">#3C3636</color>
+    <color name="mulai_perjalanan_anda__color">#3F3D3D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="recommended_color">#248F28</color>
+    <color name="rectangle_5_color">#D9D9D9</color>
+    <color name="rectangle_75_color">#DBD3D3</color>
+    <color name="rectangle_76_color">#DCD4D4</color>
+    <color name="rectangle_77_color">#F7F2F2</color>
+    <color name="rectangle_79_color">#FDF9F9</color>
+    <color name="rectangle_82_color">#FDF4F4</color>
+    <color name="rectangle_82_ek1_color">#FFFCFC</color>
+    <color name="rectangle_83_color">#E24444</color>
+    <color name="rectangle_85_color">#BB2828</color>
+    <color name="rectangle_87_ek1_color">#D87E8D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transfer_mandiri_color">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="DaftarAkun">Daftar Akun</string>
+    <string name="Kita">Kita?</string>
+    <string name="Lupa_Kata_Sandi">Lupa Kata Sandi?</string>
+    <string name="Tanggal_Lahir">DD/MM/YYYY</string>
+    <string name="Terbangnyaman">Terbang Nyaman</string>
+    <string name="_15_10_string">15:10</string>
+    <string name="_18_00_string">18:00</string>
+    <string name="_25_mei_1_pax_ekonomi_string">25 Mei - 1 Pax - Ekonomi</string>
+    <string name="anda">Anda</string>
+    <string name="app_name">YourAppName</string>
+    <string name="bagasi_5kg_string">Bagasi +5kg</string>
+    <string name="bali_denpasar_dps_string">Bali / Denpasar (DPS)</string>
+    <string name="bali_dps_string">Bali (DPS)</string>
+    <string name="batik_air_string">BATIK AIR</string>
+    <string name="bcemas">Bebas Cemas</string>
+    <string name="buatakun">Sign Up</string>
+    <string name="cari_string">Cari</string>
+    <string name="dps_string">DPS</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="email">Email</string>
+    <string name="garuda_indonesia_string">GARUDA INDONESIA</string>
+    <string name="gcm_defaultSenderId" translatable="false">927963197367</string>
+    <string name="google_api_key" translatable="false">AIzaSyAarhIdzmX3Mg7lT88J5Xa2JuTcMLmGZRE</string>
+    <string name="google_app_id" translatable="false">1:927963197367:android:e032e1af27989171484232</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAarhIdzmX3Mg7lT88J5Xa2JuTcMLmGZRE</string>
+    <string name="google_storage_bucket" translatable="false">databasepesawat.appspot.com</string>
+    <string name="idr_1_233_061_string">IDR 1.233.061</string>
+    <string name="idr_837_200_string">IDR 837.200</string>
+    <string name="image_1_description">Description of image 1</string>
+    <string name="jakarta_jkta_2_string">Jakarta (JKTA)</string>
+    <string name="jakarta_jkta_string">Jakarta (JKTA)</string>
+    <string name="jkta_string">JKTA</string>
+    <string name="ketuk_untuk_melanjutkan">Ketuk Untuk Melanjutkan</string>
+    <string name="ketuk_untuk_melanjutkan_string">Ketuk Untuk Melanjutkan</string>
+    <string name="kirimotp">Kirim OTP</string>
+    <string name="kupon_string">Kupon</string>
+    <string name="login">Login</string>
+    <string name="lupakatasandi">Lupa Kata Sandi</string>
+    <string name="masukan">Masukan</string>
+    <string name="masukan_akun">Masukan Akun</string>
+    <string name="masukan_email">Masukan email</string>
+    <string name="masukan_password">Masukan password</string>
+    <string name="mau_kemana_">Mau Kemana</string>
+    <string name="minggu_26_mei_rp_1_051_300_string">Minggu, 26 Mei Rp 1.051.300</string>
+    <string name="mm_dd_yy_string">MM/DD/YY</string>
+    <string name="mulai_perjalanan">Mulai Perjalanan.</string>
+    <string name="mulai_perjalanan_anda__string">Mulai Perjalanan Anda.</string>
+    <string name="otp">OTP</string>
+    <string name="pemberhentian_string">Pemberhentian</string>
+    <string name="penerbangan_terbaik_dalam_pencarian_anda_string">Penerbangan terbaik dalam pencarian Anda!</string>
+    <string name="project_id" translatable="false">databasepesawat</string>
+    <string name="pulang_pergi_string">Pulang Pergi</string>
+    <string name="recommended_string">Recommended</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="sabtu_25_mei_rp_939_510_string">Sabtu, 25 Mei Rp 939.510</string>
+    <string name="semua_penerbangan_string">Semua penerbangan</string>
+    <string name="senin_27_mei_rp_959_000_string">Senin, 27 Mei Rp 959.000</string>
+    <string name="terbang_nyaman_bebas_cemas__string">Terbang Nyaman Bebas Cemas.</string>
+    <string name="termurah_string">Termurah</string>
+    <string name="transfer_mandiri_string">Transfer mandiri</string>
+    <string name="username">Username</string>
+    <string name="username_email">Username/Email</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+    <style name="Base.Theme.TugasBesar" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TugasBesar" parent="Base.Theme.TugasBesar"/>
+</resources>
