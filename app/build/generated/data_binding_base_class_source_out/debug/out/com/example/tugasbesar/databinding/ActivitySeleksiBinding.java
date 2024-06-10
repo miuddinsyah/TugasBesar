@@ -27,7 +27,7 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final TextView asal3;
 
   @NonNull
-  public final TextView asal4;
+  public final TextView asalAA;
 
   @NonNull
   public final TextView harga;
@@ -36,7 +36,7 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final TextView harga1;
 
   @NonNull
-  public final TextView harga2;
+  public final TextView hargaAA;
 
   @NonNull
   public final View image3;
@@ -45,13 +45,13 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final ImageView imageView11;
 
   @NonNull
+  public final ImageView imageView1AA;
+
+  @NonNull
   public final ImageView imageView3;
 
   @NonNull
   public final ImageView imageView31;
-
-  @NonNull
-  public final ImageView imageView32;
 
   @NonNull
   public final ImageView imageView4;
@@ -60,10 +60,10 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final ImageView imageView5;
 
   @NonNull
-  public final ImageView imageView6;
+  public final ImageView imageView9;
 
   @NonNull
-  public final ImageView imageView9;
+  public final ImageView imageViewAA;
 
   @NonNull
   public final TextView jam;
@@ -75,13 +75,13 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final TextView jam14;
 
   @NonNull
-  public final TextView jam15;
-
-  @NonNull
   public final TextView jam2;
 
   @NonNull
-  public final TextView jam3;
+  public final TextView jamAA1;
+
+  @NonNull
+  public final TextView jamAA2;
 
   @NonNull
   public final TextView keberangkatan;
@@ -90,7 +90,7 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final TextView keberangkatan1;
 
   @NonNull
-  public final TextView keberangkatan2;
+  public final TextView keberangkatanAA;
 
   @NonNull
   public final LinearLayout main;
@@ -111,52 +111,52 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final TextView textView7;
 
   @NonNull
-  public final TextView textView8;
+  public final TextView textViewairasia;
 
   private ActivitySeleksiBinding(@NonNull LinearLayout rootView, @NonNull TextView asal,
-      @NonNull TextView asal3, @NonNull TextView asal4, @NonNull TextView harga,
-      @NonNull TextView harga1, @NonNull TextView harga2, @NonNull View image3,
-      @NonNull ImageView imageView11, @NonNull ImageView imageView3, @NonNull ImageView imageView31,
-      @NonNull ImageView imageView32, @NonNull ImageView imageView4, @NonNull ImageView imageView5,
-      @NonNull ImageView imageView6, @NonNull ImageView imageView9, @NonNull TextView jam,
-      @NonNull TextView jam1, @NonNull TextView jam14, @NonNull TextView jam15,
-      @NonNull TextView jam2, @NonNull TextView jam3, @NonNull TextView keberangkatan,
-      @NonNull TextView keberangkatan1, @NonNull TextView keberangkatan2,
-      @NonNull LinearLayout main, @NonNull TextView textView3, @NonNull TextView textView4,
-      @NonNull TextView textView5, @NonNull TextView textView6, @NonNull TextView textView7,
-      @NonNull TextView textView8) {
+      @NonNull TextView asal3, @NonNull TextView asalAA, @NonNull TextView harga,
+      @NonNull TextView harga1, @NonNull TextView hargaAA, @NonNull View image3,
+      @NonNull ImageView imageView11, @NonNull ImageView imageView1AA,
+      @NonNull ImageView imageView3, @NonNull ImageView imageView31, @NonNull ImageView imageView4,
+      @NonNull ImageView imageView5, @NonNull ImageView imageView9, @NonNull ImageView imageViewAA,
+      @NonNull TextView jam, @NonNull TextView jam1, @NonNull TextView jam14,
+      @NonNull TextView jam2, @NonNull TextView jamAA1, @NonNull TextView jamAA2,
+      @NonNull TextView keberangkatan, @NonNull TextView keberangkatan1,
+      @NonNull TextView keberangkatanAA, @NonNull LinearLayout main, @NonNull TextView textView3,
+      @NonNull TextView textView4, @NonNull TextView textView5, @NonNull TextView textView6,
+      @NonNull TextView textView7, @NonNull TextView textViewairasia) {
     this.rootView = rootView;
     this.asal = asal;
     this.asal3 = asal3;
-    this.asal4 = asal4;
+    this.asalAA = asalAA;
     this.harga = harga;
     this.harga1 = harga1;
-    this.harga2 = harga2;
+    this.hargaAA = hargaAA;
     this.image3 = image3;
     this.imageView11 = imageView11;
+    this.imageView1AA = imageView1AA;
     this.imageView3 = imageView3;
     this.imageView31 = imageView31;
-    this.imageView32 = imageView32;
     this.imageView4 = imageView4;
     this.imageView5 = imageView5;
-    this.imageView6 = imageView6;
     this.imageView9 = imageView9;
+    this.imageViewAA = imageViewAA;
     this.jam = jam;
     this.jam1 = jam1;
     this.jam14 = jam14;
-    this.jam15 = jam15;
     this.jam2 = jam2;
-    this.jam3 = jam3;
+    this.jamAA1 = jamAA1;
+    this.jamAA2 = jamAA2;
     this.keberangkatan = keberangkatan;
     this.keberangkatan1 = keberangkatan1;
-    this.keberangkatan2 = keberangkatan2;
+    this.keberangkatanAA = keberangkatanAA;
     this.main = main;
     this.textView3 = textView3;
     this.textView4 = textView4;
     this.textView5 = textView5;
     this.textView6 = textView6;
     this.textView7 = textView7;
-    this.textView8 = textView8;
+    this.textViewairasia = textViewairasia;
   }
 
   @Override
@@ -198,9 +198,9 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.asal4;
-      TextView asal4 = ViewBindings.findChildViewById(rootView, id);
-      if (asal4 == null) {
+      id = R.id.asalAA;
+      TextView asalAA = ViewBindings.findChildViewById(rootView, id);
+      if (asalAA == null) {
         break missingId;
       }
 
@@ -216,9 +216,9 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.harga2;
-      TextView harga2 = ViewBindings.findChildViewById(rootView, id);
-      if (harga2 == null) {
+      id = R.id.hargaAA;
+      TextView hargaAA = ViewBindings.findChildViewById(rootView, id);
+      if (hargaAA == null) {
         break missingId;
       }
 
@@ -234,6 +234,12 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.imageView1AA;
+      ImageView imageView1AA = ViewBindings.findChildViewById(rootView, id);
+      if (imageView1AA == null) {
+        break missingId;
+      }
+
       id = R.id.imageView3;
       ImageView imageView3 = ViewBindings.findChildViewById(rootView, id);
       if (imageView3 == null) {
@@ -243,12 +249,6 @@ public final class ActivitySeleksiBinding implements ViewBinding {
       id = R.id.imageView31;
       ImageView imageView31 = ViewBindings.findChildViewById(rootView, id);
       if (imageView31 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageView32;
-      ImageView imageView32 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView32 == null) {
         break missingId;
       }
 
@@ -264,15 +264,15 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageView6;
-      ImageView imageView6 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView6 == null) {
-        break missingId;
-      }
-
       id = R.id.imageView9;
       ImageView imageView9 = ViewBindings.findChildViewById(rootView, id);
       if (imageView9 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageViewAA;
+      ImageView imageViewAA = ViewBindings.findChildViewById(rootView, id);
+      if (imageViewAA == null) {
         break missingId;
       }
 
@@ -294,21 +294,21 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.jam15;
-      TextView jam15 = ViewBindings.findChildViewById(rootView, id);
-      if (jam15 == null) {
-        break missingId;
-      }
-
       id = R.id.jam2;
       TextView jam2 = ViewBindings.findChildViewById(rootView, id);
       if (jam2 == null) {
         break missingId;
       }
 
-      id = R.id.jam3;
-      TextView jam3 = ViewBindings.findChildViewById(rootView, id);
-      if (jam3 == null) {
+      id = R.id.jamAA1;
+      TextView jamAA1 = ViewBindings.findChildViewById(rootView, id);
+      if (jamAA1 == null) {
+        break missingId;
+      }
+
+      id = R.id.jamAA2;
+      TextView jamAA2 = ViewBindings.findChildViewById(rootView, id);
+      if (jamAA2 == null) {
         break missingId;
       }
 
@@ -324,9 +324,9 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.keberangkatan2;
-      TextView keberangkatan2 = ViewBindings.findChildViewById(rootView, id);
-      if (keberangkatan2 == null) {
+      id = R.id.keberangkatanAA;
+      TextView keberangkatanAA = ViewBindings.findChildViewById(rootView, id);
+      if (keberangkatanAA == null) {
         break missingId;
       }
 
@@ -362,17 +362,17 @@ public final class ActivitySeleksiBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView8;
-      TextView textView8 = ViewBindings.findChildViewById(rootView, id);
-      if (textView8 == null) {
+      id = R.id.textViewairasia;
+      TextView textViewairasia = ViewBindings.findChildViewById(rootView, id);
+      if (textViewairasia == null) {
         break missingId;
       }
 
-      return new ActivitySeleksiBinding((LinearLayout) rootView, asal, asal3, asal4, harga, harga1,
-          harga2, image3, imageView11, imageView3, imageView31, imageView32, imageView4, imageView5,
-          imageView6, imageView9, jam, jam1, jam14, jam15, jam2, jam3, keberangkatan,
-          keberangkatan1, keberangkatan2, main, textView3, textView4, textView5, textView6,
-          textView7, textView8);
+      return new ActivitySeleksiBinding((LinearLayout) rootView, asal, asal3, asalAA, harga, harga1,
+          hargaAA, image3, imageView11, imageView1AA, imageView3, imageView31, imageView4,
+          imageView5, imageView9, imageViewAA, jam, jam1, jam14, jam2, jamAA1, jamAA2,
+          keberangkatan, keberangkatan1, keberangkatanAA, main, textView3, textView4, textView5,
+          textView6, textView7, textViewairasia);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -108,69 +108,67 @@
                                 android:textStyle="bold"
                                 android:text="@string/garuda_indonesia_string"
                                 android:textColor="@color/white"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="42dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4"/>
 
                             <ImageView
                                 android:id="@+id/imageView3"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                app:layout_constraintEnd_toStartOf="@+id/jam1"
                                 app:srcCompat="@drawable/line_5"
-                                android:layout_marginStart="20dp"
-                                tools:layout_editor_absoluteX="65dp"
-                                tools:layout_editor_absoluteY="65dp"/>
+                                tools:layout_editor_absoluteY="65dp" />
 
                             <TextView
                                 android:id="@+id/jam"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="30dp"
                                 android:layout_height="match_parent"
                                 android:text="15:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4"/>
                             <TextView
                                 android:id="@+id/asal"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="JKT"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4" />
                             <TextView
                                 android:id="@+id/jam1"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
                                 android:layout_height="match_parent"
+                                android:layout_marginTop="30dp"
                                 android:text="16:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4" />
                             <TextView
                                 android:id="@+id/keberangkatan"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="DPS"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4" />
                             <TextView
                                 android:id="@+id/harga"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="150dp"
                                 android:layout_height="match_parent"
+                                android:layout_marginTop="125dp"
                                 android:text="IDR 500000"
                                 android:textSize="30dp"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="150dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView4"/>
 
                         </androidx.constraintlayout.widget.ConstraintLayout>
                         <androidx.constraintlayout.widget.ConstraintLayout
@@ -195,162 +193,168 @@
                                 android:id="@+id/textView7"
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
+                                android:layout_marginTop="10dp"
                                 android:text="@string/batik_air_string"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
                                 android:layout_marginStart="30dp"
-                                tools:layout_editor_absoluteY="44dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5" />
+
                             <ImageView
                                 android:id="@+id/imageView31"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_marginRight="4dp"
+                                app:layout_constraintRight_toLeftOf="@id/jam14"
                                 app:srcCompat="@drawable/line_5"
-                                android:layout_marginStart="20dp"
-                                tools:layout_editor_absoluteX="65dp"
-                                tools:layout_editor_absoluteY="65dp"/>
+                                tools:layout_editor_absoluteY="74dp" />
 
                             <TextView
                                 android:id="@+id/jam2"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="30dp"
                                 android:layout_height="match_parent"
                                 android:text="15:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5" />
                             <TextView
                                 android:id="@+id/asal3"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="JKT"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5"  />
                             <TextView
                                 android:id="@+id/jam14"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
+                                android:layout_marginTop="30dp"
                                 android:layout_height="match_parent"
                                 android:text="16:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5"  />
                             <TextView
-                                android:id="@+id/keberangkatan1"
+                                android:id="@+id/keberangkatanAA"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="DPS"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5"  />
                             <TextView
-                                android:id="@+id/harga1"
+                                android:id="@+id/hargaAA"
                                 android:layout_width="match_parent"
+                                android:layout_marginTop="115dp"
                                 android:layout_marginStart="150dp"
                                 android:layout_height="match_parent"
                                 android:text="IDR 500000"
                                 android:textSize="30dp"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="150dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageView5"  />
 
                         </androidx.constraintlayout.widget.ConstraintLayout>
                         <androidx.constraintlayout.widget.ConstraintLayout
                             android:layout_width="match_parent"
-                            android:layout_height="20dp">
-                            <!-- Placeholder for spacing -->
-                        </androidx.constraintlayout.widget.ConstraintLayout>
-
+                            android:layout_height="20dp"/>
                         <androidx.constraintlayout.widget.ConstraintLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:layout_marginStart="50dp">
 
                             <ImageView
-                                android:id="@+id/imageView6"
+                                android:id="@+id/imageViewAA"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 app:srcCompat="@drawable/discount_ek2"
                                 tools:layout_editor_absoluteY="31dp" />
 
                             <TextView
-                                android:id="@+id/textView8"
+                                android:id="@+id/textViewairasia"
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
+                                android:layout_marginTop="10dp"
                                 android:text="Air Asia"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
                                 android:layout_marginStart="30dp"
-                                tools:layout_editor_absoluteY="44dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA" />
+
                             <ImageView
-                                android:id="@+id/imageView32"
+                                android:id="@+id/imageView1AA"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_marginRight="4dp"
+                                app:layout_constraintRight_toLeftOf="@id/jamAA1"
                                 app:srcCompat="@drawable/line_5"
-                                android:layout_marginStart="20dp"
-                                tools:layout_editor_absoluteX="65dp"
-                                tools:layout_editor_absoluteY="65dp"/>
+                                tools:layout_editor_absoluteY="74dp" />
 
                             <TextView
-                                android:id="@+id/jam3"
+                                android:id="@+id/jamAA2"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="30dp"
                                 android:layout_height="match_parent"
                                 android:text="15:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA" />
                             <TextView
-                                android:id="@+id/asal4"
+                                android:id="@+id/asalAA"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="20dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="JKT"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA"  />
                             <TextView
-                                android:id="@+id/jam15"
+                                android:id="@+id/jamAA1"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
+                                android:layout_marginTop="30dp"
                                 android:layout_height="match_parent"
                                 android:text="16:10"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="60dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA"  />
                             <TextView
-                                android:id="@+id/keberangkatan2"
+                                android:id="@+id/keberangkatan1"
                                 android:layout_width="match_parent"
                                 android:layout_marginStart="110dp"
+                                android:layout_marginTop="50dp"
                                 android:layout_height="match_parent"
                                 android:text="DPS"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="80dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA"  />
                             <TextView
-                                android:id="@+id/harga2"
+                                android:id="@+id/harga1"
                                 android:layout_width="match_parent"
+                                android:layout_marginTop="115dp"
                                 android:layout_marginStart="150dp"
                                 android:layout_height="match_parent"
                                 android:text="IDR 500000"
                                 android:textSize="30dp"
                                 android:textColor="@color/white"
                                 android:textStyle="bold"
-                                tools:layout_editor_absoluteX="50dp"
-                                tools:layout_editor_absoluteY="150dp" />
+                                app:layout_constraintTop_toTopOf="@id/imageViewAA"  />
 
                         </androidx.constraintlayout.widget.ConstraintLayout>
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp"/>
+
+
                     </LinearLayout>
                 </ScrollView>
 
