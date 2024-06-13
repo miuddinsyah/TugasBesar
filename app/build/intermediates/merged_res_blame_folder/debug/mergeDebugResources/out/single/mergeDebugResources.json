@@ -8,12 +8,24 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\layout_trip.xml.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\layout\\trip.xml"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_bar1.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\bar1.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_rectanglemerah.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\rectanglemerah.png"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -24,20 +36,20 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\arrow_3.png"
     },
     {
-        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_rectangle_76_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\rectangle_76_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_searching_ek4_shape.xml.flat",
-        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\searching_ek4_shape.xml"
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_searching_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\searching_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_searching_ek4_shape.xml.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\searching_ek4_shape.xml"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_vector_ek1.png.flat",
@@ -64,8 +76,16 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\xml\\data_extraction_rules.xml"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_baggage.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\baggage.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_rectangle_79_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\rectangle_79_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_merahbg.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\merahbg.png"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -76,12 +96,24 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_bagage.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\bagage.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_original.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\original.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_image_3_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\image_3_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_original1.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\original1.png"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\layout_activity_halamanawall.xml.flat",
@@ -120,6 +152,10 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\layout\\activity_lupa_kata_sandi.xml"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\arrow.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_rectangle_80_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\rectangle_80_shape.xml"
     },
@@ -142,6 +178,14 @@
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_rectangle_50_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\rectangle_50_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_schedule.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_bar.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\bar.png"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_searching_ek3_shape.xml.flat",
@@ -180,6 +224,10 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\line_2_ek1.png"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_pesawat.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\pesawat.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi_rectangle_87_ek1_shape.xml.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\rectangle_87_ek1_shape.xml"
     },
@@ -190,6 +238,14 @@
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_image_1.png.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\image_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_recomended.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\recomended.png"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_wifi.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\wifi.png"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable-nodpi__bg__android_large___1_ek2_shape.xml.flat",
@@ -220,6 +276,10 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\image_47.png"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_duit.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\duit.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -232,8 +292,16 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\searching_ek1_shape.xml"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_seat.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\seat.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tugasbesar.app-debug-43:/layout_trip.xml.flat",
+        "source": "com.example.tugasbesar.app-main-45:/layout/trip.xml"
     },
     {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_line_5.png.flat",
@@ -264,15 +332,19 @@
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable-nodpi\\_bg__android_large___4_ek2_shape.xml"
     },
     {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\rectangle.png"
+    },
+    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_discount_ek1.png.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\discount_ek1.png"
     },
     {
-        "merged": "com.example.tugasbesar.app-debug-43:/layout_activity_seleksi.xml.flat",
-        "source": "com.example.tugasbesar.app-main-45:/layout/activity_seleksi.xml"
-    },
-    {
         "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_arrow_1.png.flat",
         "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\arrow_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-debug-43:\\drawable_makan.png.flat",
+        "source": "C:\\Users\\ccoos\\.gradle\\daemon\\8.6\\com.example.tugasbesar.app-main-45:\\drawable\\makan.png"
     }
 ]

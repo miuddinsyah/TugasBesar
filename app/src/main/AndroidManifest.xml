@@ -28,6 +28,7 @@
         <activity android:name=".LupaKataSandiActivity" />
         <activity android:name=".MainMenuActivity" />
         <activity android:name=".SeleksiActivity" />
+        <activity android:name=".Trip"/>
     </application>
 
 </manifest>

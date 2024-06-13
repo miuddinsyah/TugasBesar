@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.databinding:databinding-adapters:8.4.1] C:\Users\ccoos\.gradle\caches\transforms-4\d2a63942d8a5eacecaa70f960ca99b7c\transformed\databinding-adapters-8.4.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.4.1] C:\Users\ccoos\.gradle\caches\transforms-4\c7a4ae59b9d4277530d55cf6236474db\transformed\databinding-ktx-8.4.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.4.1] C:\Users\ccoos\.gradle\caches\transforms-4\dba6aa49c0467fc34e415786a1926f65\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:2:1-7:12
@@ -84,8 +84,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\ccoos\.gradle\caches\transform
 	xmlns:android
 		ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:5:5-31:19
-INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:5:5-32:19
+INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml:5:5-32:19
 MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ccoos\.gradle\caches\transforms-4\78670b816ed6d1bdc385db4447adf746\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ccoos\.gradle\caches\transforms-4\78670b816ed6d1bdc385db4447adf746\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\ccoos\.gradle\caches\transforms-4\27937e0464211b27807bf2b68ba5758c\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
@@ -188,6 +188,10 @@ activity#com.example.tugasbesar.SeleksiActivity
 ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:30:9-53
 	android:name
 		ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:30:19-50
+activity#com.example.tugasbesar.Trip
+ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from D:\TugasBesar\app\src\main\AndroidManifest.xml:31:19-39
 uses-sdk
 INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\TugasBesar\app\src\main\AndroidManifest.xml

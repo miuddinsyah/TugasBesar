@@ -47,6 +47,7 @@
         <activity android:name="com.example.tugasbesar.LupaKataSandiActivity" />
         <activity android:name="com.example.tugasbesar.MainMenuActivity" />
         <activity android:name="com.example.tugasbesar.SeleksiActivity" />
+        <activity android:name="com.example.tugasbesar.Trip" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

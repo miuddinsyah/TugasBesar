@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         // Set onClickListener for the button
         button.setOnClickListener {
             // Create an Intent to navigate to LoginActivity
-            val intent = Intent(this, LoginActivity::class.java)
+            val intent = Intent(this, Trip::class.java)
 
             // Start the LoginActivity
             startActivity(intent)

@@ -3041,11 +3041,16 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable arrow
 drawable arrow_1
 drawable arrow_2
 drawable arrow_3
 drawable avd_hide_password
 drawable avd_show_password
+drawable bagage
+drawable baggage
+drawable bar
+drawable bar1
 drawable baseline_arrow_forward_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -3082,6 +3087,7 @@ drawable design_snackbar_background
 drawable discount
 drawable discount_ek1
 drawable discount_ek2
+drawable duit
 drawable ellipse_9_shape
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -3127,6 +3133,7 @@ drawable m3_tabs_background
 drawable m3_tabs_line_indicator
 drawable m3_tabs_rounded_line_indicator
 drawable m3_tabs_transparent_background
+drawable makan
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -3137,6 +3144,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable merahbg
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3188,6 +3196,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable original
+drawable original1
+drawable pesawat
+drawable recomended
+drawable rectangle
 drawable rectangle_50_shape
 drawable rectangle_51_shape
 drawable rectangle_5_shape
@@ -3206,11 +3219,14 @@ drawable rectangle_87_ek1_shape
 drawable rectangle_87_shape
 drawable rectangle_88_ek1_shape
 drawable rectangle_88_shape
+drawable rectanglemerah
+drawable schedule
 drawable searching_ek1_shape
 drawable searching_ek2_shape
 drawable searching_ek3_shape
 drawable searching_ek4_shape
 drawable searching_shape
+drawable seat
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3218,6 +3234,7 @@ drawable vector
 drawable vector_ek1
 drawable vector_ek2
 drawable vector_ek3
+drawable wifi
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3312,6 +3329,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id backbutton
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3363,6 +3381,7 @@ id container
 id content
 id contentPanel
 id contiguous
+id continuebutton
 id continuousVelocity
 id coordinator
 id cos
@@ -3465,6 +3484,7 @@ id horizontal_only
 id icon
 id icon_group
 id icon_only
+id idr
 id ifRoom
 id ignore
 id ignoreRequest
@@ -3608,6 +3628,9 @@ id open_search_view_search_prefix
 id open_search_view_status_bar_spacer
 id open_search_view_toolbar
 id open_search_view_toolbar_container
+id origina3
+id original1
+id original2
 id outline
 id outward
 id overshoot
@@ -3988,6 +4011,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout trip
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rectanglemethod">
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/arrow"
+                android:textColor="@color/white">
+            </ImageButton>
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Choose Payment Method"
+                android:textColor="@color/white"
+                android:textSize="20dp">
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/briva"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="Briva Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bank Transfer (Manual Confirmation)"
+                        android:textSize="20dp"
+                        android:textStyle="bold">
+                    </TextView>
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+
+                    <TextView
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit/Debit Card"
+                    android:textSize="20dp"
+                    android:textStyle="bold">
+                </TextView>
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Credit/Debit Card"
+                        android:textSize="20dp"
+                        android:textStyle="bold">
+                    </TextView>
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bar2">
+
+                        <TextView
+                            android:id="@+id/BNI"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/briva"
+                            android:text="BNI Virtual Account"
+                            android:textSize="20dp">
+                        </TextView>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

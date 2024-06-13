@@ -9,6 +9,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.tugasbesar.R;
@@ -63,7 +64,7 @@ public final class ActivitySeleksiBinding implements ViewBinding {
   public final ImageView imageView9;
 
   @NonNull
-  public final ImageView imageViewAA;
+  public final ConstraintLayout imageViewAA;
 
   @NonNull
   public final TextView jam;
@@ -118,10 +119,10 @@ public final class ActivitySeleksiBinding implements ViewBinding {
       @NonNull TextView harga1, @NonNull TextView hargaAA, @NonNull View image3,
       @NonNull ImageView imageView11, @NonNull ImageView imageView1AA,
       @NonNull ImageView imageView3, @NonNull ImageView imageView31, @NonNull ImageView imageView4,
-      @NonNull ImageView imageView5, @NonNull ImageView imageView9, @NonNull ImageView imageViewAA,
-      @NonNull TextView jam, @NonNull TextView jam1, @NonNull TextView jam14,
-      @NonNull TextView jam2, @NonNull TextView jamAA1, @NonNull TextView jamAA2,
-      @NonNull TextView keberangkatan, @NonNull TextView keberangkatan1,
+      @NonNull ImageView imageView5, @NonNull ImageView imageView9,
+      @NonNull ConstraintLayout imageViewAA, @NonNull TextView jam, @NonNull TextView jam1,
+      @NonNull TextView jam14, @NonNull TextView jam2, @NonNull TextView jamAA1,
+      @NonNull TextView jamAA2, @NonNull TextView keberangkatan, @NonNull TextView keberangkatan1,
       @NonNull TextView keberangkatanAA, @NonNull LinearLayout main, @NonNull TextView textView3,
       @NonNull TextView textView4, @NonNull TextView textView5, @NonNull TextView textView6,
       @NonNull TextView textView7, @NonNull TextView textViewairasia) {
@@ -271,7 +272,7 @@ public final class ActivitySeleksiBinding implements ViewBinding {
       }
 
       id = R.id.imageViewAA;
-      ImageView imageViewAA = ViewBindings.findChildViewById(rootView, id);
+      ConstraintLayout imageViewAA = ViewBindings.findChildViewById(rootView, id);
       if (imageViewAA == null) {
         break missingId;
       }
